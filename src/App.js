@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is a sample React application.
+          This is a sample React application For Test Purpose.
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello From Gemini Solutions!
+          Go To Gemini Solutions!
         </a>
       </header>
     </div>
